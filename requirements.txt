@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+ipykernel   #ipykernel#for jupyter notebook support
+langchain-community 
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
