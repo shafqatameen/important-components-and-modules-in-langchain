@@ -15,3 +15,4 @@ langchain_huggingface
 faiss-cpu
 chromadb
 langchain-chroma
+PyGithub
